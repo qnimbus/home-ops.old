@@ -5,7 +5,7 @@ GitPython==3.1.44
 idna==3.10
 proxmoxer==2.2.0
 PyYAML==6.0.2
-requests==2.32.4
+requests==2.32.5
 setuptools==80.9.0
 smmap==5.0.2
 urllib3==2.5.0
