@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QNimbus/home-ops/refs/heads/main/assets/images/home-ops-logo.png?raw=true" align="center" width="144px" height="144px"/>
+<img src="https://raw.githubusercontent.com/QNimbus/home-ops.old/refs/heads/main/assets/images/home-ops-logo.png?raw=true" align="center" width="144px" height="144px"/>
 
 ## Home Operations Repository
 
